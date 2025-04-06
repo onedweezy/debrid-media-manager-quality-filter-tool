@@ -1,5 +1,3 @@
-Sure! Here's a polished and complete `README.md` for your Tampermonkey userscript:
-
 ---
 
 # 📦 Debrid Media Manager Quality Enhancer
@@ -47,7 +45,7 @@ Only groups within their respective source type will be matched to avoid false t
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
 2. Create a new script and paste the contents of `debrid-quality-enhancer.user.js`
-3. Or, use the raw install link if hosted
+3. Or, use the raw install
 
 ---
 
@@ -59,7 +57,8 @@ This script hooks into browser history methods (`pushState`, `replaceState`, `po
 
 ## 📸 Preview
 
-> *(Consider adding screenshots or a short GIF here)*
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/11246000-74d8-4145-86ba-ab895408eeb4" />
+
 
 ---
 
@@ -72,8 +71,7 @@ Feel free to modify the release group lists or tier colors inside the script to 
 ## 🤝 Credits
 
 - Inspired by the excellent work and guidelines from [TrashGuides](https://trash-guides.info)
-- Script written and maintained by [YourNameHere]
-
+- Script written and maintained by me
 ---
 
 Let me know if you'd like a version with installation images, badges, or a hosted raw link!
