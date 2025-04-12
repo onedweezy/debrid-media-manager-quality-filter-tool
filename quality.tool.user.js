@@ -159,6 +159,7 @@
   
     function runProcessing() {
       processH2s('720p');
+      processH2s('1080i');
       processH2s('1080p');
       processH2s('2160p');
     }
