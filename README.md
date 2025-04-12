@@ -1,6 +1,6 @@
 ---
 
-# 📦 Debrid Media Manager Quality Enhancer
+# 📦 Debrid Media Manager Quality Filter
 
 A Tampermonkey userscript that upgrades the [debridmediamanager.com](https://debridmediamanager.com) experience by tagging, highlighting, and sorting releases based on source, tier, and quality—using logic inspired by [TrashGuides](https://trash-guides.info). Built for both desktop and mobile, with full SPA support.
 
